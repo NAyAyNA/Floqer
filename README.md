@@ -1,6 +1,6 @@
 Tech Stack React.js, JavaScript, HTML and CSS.
 
-Prerequisites
+Prerequisites: 
 
 You have installed Node.js.
 You have a package manager installed npm.
