@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #27292c;
+    color: white;
+    text-align: left;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around; 
+}
+
+.table-container {
+  flex: 1; 
+}
+
+.chart-container {
+  flex: 1; 
+}
+
+.table-container, .chart-container {
+  max-width: 50%; 
+}   
+
+
